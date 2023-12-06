@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.content-container {
+    display: flex;
+    justify-content: center; /* Центрирование видео */
+    flex-wrap: wrap;
+    gap: 10px; /* Расстояние между видео */
+    padding: 15px;
+}
+
+.land-video {
+    width: 560px; /* Ширина видео */
+    height: 315px; /* Высота видео */
+}
+
+.port-video {
+    width: 315px; /* Ширина видео */
+    height: 560px; /* Высота видео */
+}
+
+.video-description {
+    margin-top: 10px; /* Отступ сверху для описания */
+    text-align: center; /* Центрирование текста и элементов внутри .video */
+    /* Добавьте здесь другие стили для описания, если нужно */
+}
+
+.rounded-shadow-box {
+    width: auto; /* Устанавливает ширину подложки */
+    height: auto; /* Устанавливает высоту подложки */
+    background-color: white; /* Цвет фона подложки */
+    border-radius: 20px; /* Скругляет углы подложки */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Добавляет тень */
+}
+
+@media screen and (max-width: 600px) {
+    .video-container iframe {
+        flex-basis: 100%; /* На маленьких экранах видео занимают всю ширину контейнера */
+    }
+}
+

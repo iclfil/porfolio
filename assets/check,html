@@ -1,0 +1,384 @@
+
+
+    <div class="container">
+        <div class="video-container">
+            <iframe class="landscape" src="https://www.youtube.com/embed/JRR_5Pu0WTo" frameborder="0" allowfullscreen></iframe>
+            <p>Прототип игры о городах в России</p>
+        </div>
+    </div>
+
+       <!--видео с игрой настольной-->
+       <div class="container">
+        <div class="video">
+            <iframe class="iframe-landscape" src="https://www.youtube.com/embed/kulqn33seDc" frameborder="0" allowfullscreen></iframe>
+            <p>Прототип онлайн битвы с Матч3. Без использования ассета. Модель на ECS</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/TikQ9kUZhrQ" frameborder="0" allowfullscreen></iframe>
+            <p>MatchTwo</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/IhBxZCUsGb0" frameborder="0" allowfullscreen></iframe>
+            <p>FindLego</p>
+
+        </div>
+        <div class="video">
+            <iframe class="iframe-portrait" src="https://www.youtube.com/embed/Lr-niMbtjFA" frameborder="0" allowfullscreen></iframe>
+            <p>EmojiPick</p>
+        </div>
+    </div>
+    
+    <div class="container">
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/cIOYsj5bOZY" frameborder="0" allowfullscreen></iframe>
+            <p>BattleMobs</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/kwqHFZHwOoA" frameborder="0" allowfullscreen></iframe>
+            <p>SortedMe</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/rx5lctBuu9E" frameborder="0" allowfullscreen></iframe>
+            <p>MatchRoad</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/KGIN9eWoEQw" frameborder="0" allowfullscreen></iframe>
+            <p>CollectIT - ASMR</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/c_9u4GFGwKA" frameborder="0" allowfullscreen></iframe>
+            <p>MatchDices</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/kd53jX7ZCAE" frameborder="0" allowfullscreen></iframe>
+            <p>StackyBalls</p>
+        </div>
+    </div>
+
+    
+    <div class="container">
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/RN87EGddEQw" frameborder="0" allowfullscreen></iframe>
+            <p>WorldWord</p>
+
+        </div>
+        <div class="video">
+            <iframe src="https://www.youtube.com/embed/MANIDPrOjeY" frameborder="0" allowfullscreen></iframe>
+            <p>BallsRound</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/Cy5q9tVHp7Q" frameborder="0" allowfullscreen></iframe>
+            <p>PushPeople</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/RB2Zv9w0gTw" frameborder="0" allowfullscreen></iframe>
+            <p>ShotColor</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/Irx2HwGwxFY" frameborder="0" allowfullscreen></iframe>
+            <p>PaintTiles</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/JVg73B1_tBE" frameborder="0" allowfullscreen></iframe>
+            <p>LaboratoryMan</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/GfxBK9-YJG0" frameborder="0" allowfullscreen></iframe>
+            <p>FilledTube</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/q1pDejidXRw" frameborder="0" allowfullscreen></iframe>
+            <p>CheckMate</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/G9PLNorSc6k" frameborder="0" allowfullscreen></iframe>
+            <p>BarrierCars</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/rtQKMogssw4" frameborder="0" allowfullscreen></iframe>
+            <p>SwitchPull</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/EC5xNsb3xIA" frameborder="0" allowfullscreen></iframe>
+            <p>PushMe(PaintTiles - 2 iteration)</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/DnQScNkw0Ss" frameborder="0" allowfullscreen></iframe>
+            <p>JellyPull</p>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/BnDY6UvBUUo" frameborder="0" allowfullscreen></iframe>
+            <p>SlideBlock</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/qVSJJzCzdco" frameborder="0" allowfullscreen></iframe>
+            <p>WorldCubics</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/iTLCG35LctE" frameborder="0" allowfullscreen></iframe>
+            <p>SwapyMan</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/5lOFh9K-Bbs" frameborder="0" allowfullscreen></iframe>
+            <p>BraceletMaker</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/yV0hOpQoUW8" frameborder="0" allowfullscreen></iframe>
+            <p>2048</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/5zARL4lKkWQ" frameborder="0" allowfullscreen></iframe>
+            <p>RoadRotate</p>
+        </div>
+    </div>
+
+
+
+    ...............................
+
+    
+    <div class="container">
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/RB2Zv9w0gTw" frameborder="0" allowfullscreen></iframe>
+            <p>ShotColor</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/Irx2HwGwxFY" frameborder="0" allowfullscreen></iframe>
+            <p>PaintTiles</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/JVg73B1_tBE" frameborder="0" allowfullscreen></iframe>
+            <p>LaboratoryMan</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/GfxBK9-YJG0" frameborder="0" allowfullscreen></iframe>
+            <p>FilledTube</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/q1pDejidXRw" frameborder="0" allowfullscreen></iframe>
+            <p>CheckMate</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/G9PLNorSc6k" frameborder="0" allowfullscreen></iframe>
+            <p>BarrierCars</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/rtQKMogssw4" frameborder="0" allowfullscreen></iframe>
+            <p>SwitchPull</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/EC5xNsb3xIA" frameborder="0" allowfullscreen></iframe>
+            <p>PushMe(PaintTiles - 2 iteration)</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/DnQScNkw0Ss" frameborder="0" allowfullscreen></iframe>
+            <p>JellyPull</p>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/BnDY6UvBUUo" frameborder="0" allowfullscreen></iframe>
+            <p>SlideBlock</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/qVSJJzCzdco" frameborder="0" allowfullscreen></iframe>
+            <p>WorldCubics</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/iTLCG35LctE" frameborder="0" allowfullscreen></iframe>
+            <p>SwapyMan</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/5lOFh9K-Bbs" frameborder="0" allowfullscreen></iframe>
+            <p>BraceletMaker</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/yV0hOpQoUW8" frameborder="0" allowfullscreen></iframe>
+            <p>2048</p>
+
+        </div>
+        <div class="video">
+            <iframe class="portrait" src="https://www.youtube.com/embed/5zARL4lKkWQ" frameborder="0" allowfullscreen></iframe>
+            <p>RoadRotate</p>
+        </div>
+    </div>
+
+
+
+
+    
+    <div class="container">
+        <div class="video-port">
+            <div class="rounded-shadow-box">
+                <iframe width="315" height="560" src="https://www.youtube.com/embed/cIOYsj5bOZY" frameborder="0" allowfullscreen></iframe>
+                <p>BattleMobs</p>
+            </div>
+        </div>
+
+        <div class="video-port">
+            <div class="rounded-shadow-box">
+                <iframe width="315" height="560" src="https://www.youtube.com/embed/kwqHFZHwOoA" frameborder="0" allowfullscreen></iframe>
+                <p>SortedMe</p>
+            </div>
+        </div>
+
+        <div class="video-port">
+            <div class="rounded-shadow-box">
+                <iframe width="315" height="560" src="https://www.youtube.com/embed/rx5lctBuu9E" frameborder="0" allowfullscreen></iframe>
+                <p>MatchRoad</p>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <div class="video-port">
+            <div class="rounded-shadow-box">
+            <iframe width="315" height="560" src="https://www.youtube.com/embed/KGIN9eWoEQw" frameborder="0" allowfullscreen></iframe>
+            <p>CollectIT - ASMR</p>
+        </div>
+        </div>
+
+        <div class="video-port">
+            <div class="rounded-shadow-box">
+            <iframe width="315" height="560" src="https://www.youtube.com/embed/c_9u4GFGwKA" frameborder="0" allowfullscreen></iframe>
+            <p>MatchDices</p>
+        </div>
+        </div>
+            <div class="video-port">
+                <div class="rounded-shadow-box">
+                <iframe width="315" height="560" src="https://www.youtube.com/embed/kd53jX7ZCAE" frameborder="0" allowfullscreen></iframe>
+                <p>StackyBalls</p>
+            </div>
+        </div>
+    </div>
+
+    
+    <div class="container">
+        <div class="video-port">
+            <div class="rounded-shadow-box">
+
+            <iframe width="315" height="560" class="portrait" src="https://www.youtube.com/embed/RN87EGddEQw" frameborder="0" allowfullscreen></iframe>
+            <p>WorldWord</p>
+        </div>
+
+        </div>
+        <div class="video-port">
+            <div class="rounded-shadow-box">
+                <iframe width="315" height="560" src="https://www.youtube.com/embed/dSJGMB-gijE" title="BallsRound2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <p>BallsRound</p>
+        </div>
+
+        </div>
+        <div class="video-port">
+            <div class="rounded-shadow-box">
+
+            <iframe width="315" height="560" class="portrait" src="https://www.youtube.com/embed/Cy5q9tVHp7Q" frameborder="0" allowfullscreen></iframe>
+            <p>PushPeople</p>
+        </div>
+    </div>
+
+    </div>
+
+       
+    <div class="container">
+        <div class="video-land">
+            <div class="rounded-shadow-box">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/JRR_5Pu0WTo?si=jrDfzj023RcK7LCG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <p>Прототип игры о городах в России</p>
+        </div>
+        </div>
+    </div>
+
+       <!--видео с игрой настольной-->
+       <div class="container">
+        <div class="video-land">
+            <div class="rounded-shadow-box">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/kulqn33seDc?si=n1uPw-sL9p2brtlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <p>Прототип онлайн битвы с Матч3. Без использования ассета. Модель на ECS</p>
+        </div>
+    </div>
+    </div>
+
+
+    <!-- <div class="container">
+        <div class="video-port">
+            <div class="rounded-shadow-box">
+                    <iframe class = "portrait" src="https://www.youtube.com/embed/Pmx_w0rDnRA?si=MbM_x8g9BxXtnw2y&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <p>MatchTwo</p>
+                </div>
+             </div>
+            </div>
+            
+        <div class="video-port">
+            <div class="rounded-shadow-box">
+                    <iframe class = "portrait" src="https://www.youtube.com/embed/IhBxZCUsGb0" title="DropLego" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <p>DropLego</p>
+            </div>
+        </div>
+
+        <div class="video-port">
+            <div class="rounded-shadow-box">
+                <iframe class = "portrait" src="https://www.youtube.com/embed/Lr-niMbtjFA?si=Vp8vOPFY-75u2cST&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <p>EmojiPick</p>
+            </div>
+        </div>
+    </div> -->
